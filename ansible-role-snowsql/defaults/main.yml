@@ -1,0 +1,5 @@
+---
+# defaults file for ansible-role-snowsql
+snowsql_url: https://s3-us-west-2.amazonaws.com/sfc-snowsql-updates/bootstrap/1.1/linux_x86_64/snowsql-1.1.27-linux_x86_64.bash
+workspace: /tmp
+snowsql_install_path: /bin/snowsql
